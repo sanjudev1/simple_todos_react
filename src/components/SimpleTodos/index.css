@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  padding: 15px;
+  text-align: center;
+  font-family: 'Roboto';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: whitesmoke;
+  border-radius: 15px;
+  text-align: center;
+  background-size: cover;
+  margin: 20px;
+  width: 60vw;
+
+  padding: 20px;
+}
+.heading {
+  color: #ffc2a0;
+}
